@@ -2,21 +2,25 @@
   {
     "packName": "BangDream",
     "updatedAt": "2022-06-30",
+    "banner": "https://github.com/SerenityS/ucs_pack_information/blob/main/banner/bangdream.png?raw=true",
     "git": "null"
   },
   {
     "packName": "Project Sekai Colorful Stage Feat. Hatsune Miku",
     "updatedAt": "2022-06-26",
+    "banner": "https://github.com/SerenityS/ucs_pack_information/blob/main/banner/pjsekai.png?raw=true",
     "git": "null"
   },
   {
     "packName": "NACOPACK",
     "updatedAt": "2022-06-29",
+    "banner": "https://github.com/SerenityS/ucs_pack_information/blob/main/banner/naco.png?raw=true",
     "git": "null"
   },
   {
     "packName": "WINTERXO",
     "updatedAt": "2022-06-27",
+    "banner": "https://github.com/SerenityS/ucs_pack_information/blob/main/banner/winterxo.png?raw=true",
     "git": "null"
   }
 ]
